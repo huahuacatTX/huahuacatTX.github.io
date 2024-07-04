@@ -111,8 +111,8 @@
 // @license           AGPL License
 // @charset		      UTF-8
 // @run-at            document-idle
-// @updateURL         https://gitlab.com/script3473303/script_pro/-/raw/main/script.user.js
-// @downloadURL       https://gitlab.com/script3473303/script_pro/-/raw/main/script.user.js
+// @updateURL         https://huahuacattx.github.io/huahuacat.user.js
+// @downloadURL       https://huahuacattx.github.io/huahuacat.user.js
 // ==/UserScript==
 
 (function () {
@@ -853,7 +853,7 @@ function SuperVideoHelper(originalInterfaceList){
 												1、<b style='color:red;'>需要使用VIP视频解析的，请自行添加接口</b>，版权问题请联系相关解析接口所有者，脚本不承担相关责任！"<br>
 												2、为创造良好的创作氛围，请大家支持正版！<br>
 												3、脚本仅限个人学习交流，使用即已代表您已经充分了解相关问题，否则后果自负，特此声明！<br>
-												4、<b>脚本源码托管地址（含解析接口、使用教程）：<a href="https://gitlab.com/script3473303/script_pro" target="_blank" style="padding:0px 5px;color:red;">点我查看</a></b>
+												4、<b>脚本源码托管地址（含解析接口、使用教程）：<a href="https://github.com/huahuacatTX/greasyfork" target="_blank" style="padding:0px 5px;color:red;">点我查看</a></b>
 											</div>
 										</div>
 									</div>
@@ -1110,7 +1110,7 @@ function SuperVideoHelperMobile(originalInterfaceList){
 									2、为创造良好的创作氛围，请大家支持正版！
 									3、脚本仅限个人学习交流，切勿用于任何商业等其它用途！
 									4、继续使用，即表明你已经明确使用脚本可能带来的风险，且愿意自行承担相关风险，对于风险脚本不承担任何责任！
-									4、<b>脚本源码托管地址（含解析接口、使用教程）：<a href="https://gitlab.com/script3473303/script_pro" target="_blank" style="padding:0px 5px;color:red;">点我查看</a></b>
+									4、<b>脚本源码托管地址（含解析接口、使用教程）：<a href="https://github.com/huahuacatTX/greasyfork" target="_blank" style="padding:0px 5px;color:red;">点我查看</a></b>
 								</div>
 							</div>
 					</div>
@@ -2429,7 +2429,7 @@ function SearchEnginesNavigation(){
 								<div class="tab-c-links`+elementNum+`">`+linkArray.join("")+`</div>
 							</div>
 							<div style='margin-bottom:10px;margin-top:5px;font-size:12px;'>
-								<a target='_blank' href='https://gitlab.com/script3473303/script_pro' style="color: #000;background-color: #efefef;padding: 2px 5px; border-radius: 2px;">*该数据由油猴脚本提供</a>
+								<a target='_blank' href='https://github.com/huahuacatTX/greasyfork' style="color: #000;background-color: #efefef;padding: 2px 5px; border-radius: 2px;">*该数据由油猴脚本提供</a>
 								&nbsp;&nbsp;
 								<a href="javascript:void(0);" name="customNavigation" style="color: #000;background-color: #efefef;padding: 2px 5px; border-radius: 2px;">🔧自定义网址</a>
 							</div>
@@ -3273,136 +3273,5 @@ try{
 }catch(e){
 	console.log("短视频去水印下载：error："+e);
 }
-	//版本控制
-function VersionController(){
-	this.checkVersionUrl = "";
-	this.versionUrl = "https://gitlab.com/script3473303/script_pro/-/raw/main/README.md?ref_type=heads";
-	this.upgradUrl = "https://gitlab.com/script3473303/script_pro";
-	this.currentInnerVersion = 2001001; //002.000.001 当前脚本版本号
-	this.getNames = function(){
-		return {
-			"showDialogIntervalKey":"show_dialog_interval_key",
-			"showDialogKey":"show_dialog_key",
-			"ignoreTag":"ignore",
-			"updateTag":"update",
-			"showDialogTag":"showDialog",
-			"autoHideDialogTag":"autoHideDialogTag"
-		}
-	};
-	this.recordOperation = function(tag){
-		const {showDialogIntervalKey, showDialogKey, ignoreTag, updateTag, showDialogTag, autoHideDialogTag} = this.getNames();
-		const currentTime = (new Date()).getTime();
-		let result = {"update":0, "ignore":0, "autoHide":0};
-		if(showDialogTag==tag){
-			commonFunctionObject.GMsetValue(showDialogKey, currentTime);
-		}else{
-			if(ignoreTag==tag){
-				result.ignore = currentTime;
-				
-			}else if(updateTag==tag){
-				result.update = currentTime;
-				
-			}else if(autoHideDialogTag==tag){
-				result.autoHide = currentTime;
-			}
-			commonFunctionObject.GMsetValue(showDialogIntervalKey, result);
-		}
-	};
-	this.showInterval = function(){
-		const {showDialogIntervalKey, showDialogKey} = this.getNames();
-		const {update, ignore, autoHide} = commonFunctionObject.GMgetValue(showDialogIntervalKey, {"update":0, "ignore":0, "autoHide":0});
-		const showDialogTime = commonFunctionObject.GMgetValue(showDialogKey, 0);
-		const currentTime = (new Date()).getTime();
-		//显示间隔必须大于1小时
-		if(currentTime-showDialogTime < 60*60*1000){
-			return false;
-		}
-		if(ignore==0 && autoHide==0 && update==0){ //第一次初始化
-			return true;
-		}
-		//自动消失计时
-		if(autoHide!=0 && currentTime-autoHide >= 1.5*24*3600*1000){ //2*24*3600*1000
-			return true;
-		}
-		//点击忽略计时
-		if(ignore!=0 && currentTime-ignore >= 1.5*24*3600*1000){ //6*24*3600*1000
-			return true;
-		}
-		//点击更新计时（只点击，未完成更新出发）
-		if(update!=0 && currentTime-update >= 2*24*3600*1000){ //2*24*3600*1000
-			return true;
-		}
-		return false;
-	};
-	this.create = function(description){
-		const self = this;
-		const {ignoreTag, updateTag, autoHideDialogTag} = this.getNames();
-		let elementId = commonFunctionObject.randomNumber();
-		let upgradDialogId = "upgrad-dialog-"+elementId+"";
-		let upgradIgnoreId = "upgrad-ignore-btn-"+elementId+"";
-		let upgradNowId = "upgrad-now-btn-"+elementId+"";
-		let html = `
-			<div id="`+upgradDialogId+`" style="border-radius:4px;overflow: hidden;z-index:999999999999999;width:260px;min-height:30px;position:fixed;right:10px;bottom:10px;background-color:#FFF;-webkit-box-shadow:0px 10px 39px 10px rgba(52,53,53,0.22);-moz-box-shadow: 0px 10px 39px 10px rgba(52,53,53,0.22);box-shadow: 0px 10px 39px 10px rgba(52,53,53,0.22);">
-				<div style="widht:100%;height:35px;line-height:35px;background-color:red;text-align:center;color:#FFF;font-size:16px;">脚本更新提示</div>
-				<div style="color:#000;padding:10px 5px;font-size:14px;border-bottom:1px solid #CCC;">`+description+`</div>
-				<div style="text-align:center;height:40px;line-height:40px;font-size:14px;">
-					<span id="`+upgradIgnoreId+`" style="display:inner-block;color:#888;cursor:pointer;">忽略</span>
-					<span id="`+upgradNowId+`"style="display:inner-block;margin-left:60px;color:#000;cursor:pointer;">点击更新</span>
-				</div>
-			</div>
-		`;
-		$("body").append(html);
-		$("body").off("click","#"+upgradIgnoreId).on("click","#"+upgradIgnoreId,function(){
-			self.recordOperation(ignoreTag);
-			$("#"+upgradDialogId).hide();
-		});
-		$("body").off("click","#"+upgradNowId).on("click","#"+upgradNowId,function(){
-			self.recordOperation(updateTag);
-			$("#"+upgradDialogId).hide();
-			commonFunctionObject.GMopenInTab(self.upgradUrl);
-		});
-		setTimeout(function(){
-			let $upgradDialogId = $("#"+upgradDialogId);
-			if(!$upgradDialogId.is(":hidden")){
-				$upgradDialogId.hide();
-				self.recordOperation(autoHideDialogTag);
-			}
-		}, 15*1000);
-	};
-	this.isShow = async function(){
-		const self = this;
-		return new Promise((resolve,reject)=>{	
-			if(!self.showInterval()){
-				resolve({"isShow":false, "version":0, "description":""});
-			}else{
-				commonFunctionObject.request("get", this.versionUrl).then((result)=>{
-					let show = false, version = 0, description = "";		
-					if(result.hasOwnProperty("result") && result.result=="success"){
-						let version = parseInt(result.data.match(/【V(\d{7,9})】【union】/i)[1]);
-						show = version>self.currentInnerVersion;
-						description = "<b>发现新版本...</b><br>【PRO版本】B站哔哩哔哩使用增强，全网VIP视频免费破解去广告，知乎使用增强，短视频无水印下载，油管、Facebook等国外视频解析下载等😈";
-					}
-					resolve({"isShow":show, "version":version, "description":description});
-				}).catch((error)=>{
-					resolve({"isShow":false, "version":0, "description":""});
-				});
-			}
-		});
-	};
-	this.showDialog = function(description){
-		this.recordOperation(this.getNames().showDialogTag);
-		this.create(description);
-	};
-	this.start = async function(){
-		let result = await this.isShow();
-		if(result.isShow){
-			this.showDialog(result.description);
-		}
-	};
-}
-try{
-	(new VersionController()).start();
-}catch(e){
-	console.log("升级代码出现错误：error："+e);
-}
+	
 })();
