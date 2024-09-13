@@ -3,10 +3,10 @@
 // @name:zh           【PRO版本】B站哔哩哔哩使用增强，全网VIP视频免费破解去广告，知乎使用增强，短视频无水印下载，油管、Facebook等国外视频解析下载等😈
 // @name:zh-TW		  【PRO版本】B站嗶哩嗶哩使用增強，全網VIP視頻免費破解去廣告，知乎使用增強，短視頻無水印下載，油管、Facebook等國外視頻解析下載等😈
 // @namespace         bilibili_namespace_20230625
-// @version           2.1.2
-// @description       功能可选择性打开：1、B站使用增强：支持视频下载(👉支持多P批量快速下载👈)、浏览记录提示、一键三连、自动签到、描述文本网址转链接等；2、全网VIP视频解析：爱奇艺、腾讯、优酷、bilibili等视频免费解析(支持自定义解析接口)；3、知乎使用助手：内容种类标识、问答显示优化、视频下载等；4、短视频去水印下载：支持知乎、抖音、快手等；5、油管、Facebook等国外视频解析下载；🔥6、搜索引擎功能增强,百度添加网址显示，google结果新标签页打开灯,导航可自定义网址【脚本长期维护更新，完全免费，无广告，仅限学习交流！！】
-// @description:zh    功能可选择性打开：1、B站使用增强：支持视频下载(👉支持多P批量快速下载👈)、浏览记录提示、一键三连、自动签到、描述文本网址转链接等；2、全网VIP视频解析：爱奇艺、腾讯、优酷、bilibili等视频免费解析(支持自定义解析接口)；3、知乎使用助手：内容种类标识、问答显示优化、视频下载等；4、短视频去水印下载：支持知乎、抖音、快手等；5、油管、Facebook等国外视频解析下载；🔥6、搜索引擎功能增强,百度添加网址显示，google结果新标签页打开灯,导航可自定义网址【脚本长期维护更新，完全免费，无广告，仅限学习交流！！】
-// @description:zh-TW 功能可選擇性開啟：1、B站使用增強：支援視頻下載(👉支援多P批量快速下載👈)、瀏覽記錄提示、一鍵三連、自動簽到、描述文本網址轉連結等；2、全網VIP視頻解析：愛奇藝、騰訊、優酷、bilibili等視頻免費解析(支援自定義解析介面)；3、知乎使用助手：內容種類標識、問答顯示優化、視頻下載等；4、短視頻去水印下載：支援知乎、抖音、快手等；5、油管、Facebook等國外視頻解析下載；🔥6、搜索引擎功能增強,百度添加網址顯示，google結果新標籤頁開啟燈,導航可自定義網址【指令碼或直譯式程式長期維護更新，完全免費，無廣告，僅限學習交流！！】
+// @version           2.2.2
+// @description       功能可选择性打开：1、B站使用增强：支持视频下载(👉支持多P批量快速下载👈)、浏览记录提示、一键三连、自动签到、描述文本网址转链接等；2、全网VIP视频解析：爱奇艺、腾讯、优酷、bilibili等视频免费解析(支持自定义解析接口)；3、知乎使用助手：内容种类标识、问答显示优化、视频下载等；4、短视频去水印下载：支持知乎、抖音、快手等；5、油管、Facebook、Tiktok等国外视频解析下载；🔥6、搜索引擎功能增强,百度添加网址显示，google结果新标签页打开灯,导航可自定义网址【脚本长期维护更新，完全免费，无广告，仅限学习交流！！】
+// @description:zh    功能可选择性打开：1、B站使用增强：支持视频下载(👉支持多P批量快速下载👈)、浏览记录提示、一键三连、自动签到、描述文本网址转链接等；2、全网VIP视频解析：爱奇艺、腾讯、优酷、bilibili等视频免费解析(支持自定义解析接口)；3、知乎使用助手：内容种类标识、问答显示优化、视频下载等；4、短视频去水印下载：支持知乎、抖音、快手等；5、油管、Facebook、Tiktok等国外视频解析下载；🔥6、搜索引擎功能增强,百度添加网址显示，google结果新标签页打开灯,导航可自定义网址【脚本长期维护更新，完全免费，无广告，仅限学习交流！！】
+// @description:zh-TW 功能可選擇性開啟：1、B站使用增強：支援視頻下載(👉支援多P批量快速下載👈)、瀏覽記錄提示、一鍵三連、自動簽到、描述文本網址轉連結等；2、全網VIP視頻解析：愛奇藝、騰訊、優酷、bilibili等視頻免費解析(支援自定義解析介面)；3、知乎使用助手：內容種類標識、問答顯示優化、視頻下載等；4、短視頻去水印下載：支援知乎、抖音、快手等；5、油管、Facebook、Tiktok等國外視頻解析下載；🔥6、搜索引擎功能增強,百度添加網址顯示，google結果新標籤頁開啟燈,導航可自定義網址【指令碼或直譯式程式長期維護更新，完全免費，無廣告，僅限學習交流！！】
 // @author            huahuacat
 // @icon              data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACS0lEQVRYR8WXz2oTURTGv3MnpqhNKy1UWmxRTGdaiLSQRKkKIoK4FVrRPoHu7BMYn0B3+gQquuiuiC6kaFVsAhGEZkKqG/+Vrtp0YWsyR27KlEwz0xnnT3LgwjB37vl+97tzz9whdDiow/pwBCjofN0AJohwKQgkMxYF8Dmt0bxdnhaAQoWTXMczENJBhFvGMgqk4GY6SZXmPgvAmy/cnYijGqrwvmTVHSQup2jLvG0ByJf5EYDbUQIAeJxR6U4LQHGV1VodesTijfQxBdrkaSrL6z0Hlst8i4An7QBgYDar0lMrgM45ItxrCwDjflajnC+AtR8Gvn8zGpz9xwVOjor/Zma/ANt/GIsLNWxt8p7o4IiAmlLQP+C9pvkG+FoyUPxYs52xhFDPKIh3uRviG2ClWIdsTpHoJYymFNdliQzABBsaEZg4p+DwUftliRxAggwOC0xdidma1RaAI92Ea9OHOgcwPqlANruI1AElhsa2dBKXQJEBnDglGlvxWN/BNcE3gKyCS69b64AUlMISwEv4BpDJ3778i/Xfu5XQtFtaLq+9RiCA6gZj/dcuQN8Audod6kvodYZuz9k7UOK7JPDAbXAY/WxgLjtGDy2f408VPi8MLIUh4JbDELhwNknvLQDyQNoTh87AkFuCIP0E/NzcgWYeTC0bdrkNp6Lm9bc4YM4qr/NzEGaCzNJxLONFRqMbzf22JSu/wlcphhwzpsIAIcIHriGXGadX+/MdWDPflTjRxcH+kLYJhYtj5Piz4/0gF4YVNjk6DvAPDb0aMEr8/nEAAAAASUVORK5CYII=
 // @include           *://*.youku.com/v_*
@@ -65,46 +65,60 @@
 // @include           *://www.bilibili.com/read/**
 // @include      	  *://*.zhihu.com/*
 // @include           *://www.douyin.com/*
-// @include           *://www.kuaishou.com/*
-// @include           *://www.youtube.com
-// @include           *://www.youtube.com/
-// @include           *://www.youtube.com/watch*
-// @include           *://www.facebook.com/*
-// @include           *://yt1s.com/facebook-downloader
-// @include           *://*.taobao.com/*
-// @include           *://*.tmall.com/*
-// @include           *://chaoshi.detail.tmall.com/*
-// @include           *://pages.tmall.com/wow/an/cs/search**
-// @include           *://*.tmall.hk/*
-// @include           *://*.liangxinyao.com/*
-// @include           *://*.jd.com/*
-// @include           *://*.jd.hk/*
-// @include           *://*.yiyaojd.com/*
-// @include           *://category.vip.com/suggest.php**
-// @include           *://detail.vip.com/detail-*
-// @include           *://www.vipglobal.hk/detail-*
-// @include           *://list.vip.com/*.html
 // @include           *://*.douyinvod.com/*
+// @include           *://www.kuaishou.com/*
+// @match             *://*.taobao.com/*
+// @match             *://*.tmall.com/*
+// @match             *://*.tmall.hk/*
+// @match             *://*.liangxinyao.com/*
+// @match             *://chaoshi.detail.tmall.com/*
+// @match             *://pages.tmall.com/wow/an/cs/search**
+// @match             *://*.jd.com/*
+// @match             *://*.jd.hk/*
+// @match             *://item.jkcsjd.com/*
+// @match             *://*.yiyaojd.com/*
+// @match             *://www.vipglobal.hk
+// @match             *://*.vip.com/*
+// @match             *://detail.vip.com/detail-*
+// @match             *://www.vipglobal.hk/detail-*
+// @match             *://category.vip.com/suggest.php**
+// @match             *://list.vip.com/*.html
+// @exclude           *://jianghu.taobao.com/*
 // @exclude           *://login.taobao.com/*
 // @exclude           *://uland.taobao.com/*
-// @exclude           *://www.taobao.com/*
 // @exclude           *://map.taobao.com/*
+// @exclude           *://creator.guanghe.taobao.com/*
+// @exclude           *://myseller.taobao.com/*
+// @exclude           *://qn.taobao.com/*
 // @exclude           *://jingfen.jd.com/*
-// @exclude           *://pages.tmall.com/*
+// @exclude           *://passport.jd.com/*
+// @exclude           *://jmw.jd.com/*
+// @exclude           *://passport.shop.jd.com/*
+// @exclude           *://passport.vip.com/*
+// @exclude           *://huodong.taobao.com/wow/z/guang/gg_publish/*
+// @include           *://www.tiktok.com/@*
+// @include           *://www.youtube.com/watch**
+// @include           *://www.youtube.com/shorts**
+// @exclude           *://accounts.youtube.com/*
+// @exclude           *://www.youtube.com/live_chat_replay*
+// @exclude           *://www.youtube.com/persist_identity*
 // @require           https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.2.1/jquery.min.js
+// @require           https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/keypress/2.1.5/keypress.min.js
 // @require           https://greasyfork.org/scripts/454236-findandreplacedomtext-huahuacat/code/findAndReplaceDOMText-huahuacat.js?version=1112990
 // @connect           bilibili.com
 // @connect           sct.staticj.top
 // @connect			  tt.shuqiandiqiu.com
 // @connect           j.jiayoushichang.com
+// @connect           tikdownloader.io
 // @grant             unsafeWindow
+// @grant             GM_download
 // @grant             GM_openInTab
 // @grant             GM.openInTab
 // @grant             GM_getValue
 // @grant             GM.getValue
 // @grant             GM_setValue
 // @grant             GM.setValue
-// @grant             GM_download
+// @grant             GM_addStyle
 // @grant             GM_xmlhttpRequest
 // @grant             GM.xmlHttpRequest
 // @grant             GM_registerMenuCommand
@@ -167,12 +181,13 @@ function CommonFunction(){
 	this.randomNumber = function(){
 		return Math.ceil(Math.random()*100000000);
 	};
-	this.request = function(mothed, url, param){   //网络请求
+	this.request=function(mothed, url, param, headers={"Content-Type": "application/json;charset=UTF-8"}){
 		return new Promise(function(resolve, reject){
 			GM_xmlhttpRequest({
 				url: url,
 				method: mothed,
 				data:param,
+				headers:headers,
 				onload: function(response) {
 					var status = response.status;
 					var playurl = "";
@@ -341,7 +356,7 @@ function CommonFunction(){
 			platform = "tmall";
 		}else if(url.indexOf("taobao.com")!=-1 || url.indexOf("maiyao.liangxinyao.com")!=-1){
 			platform = "taobao";
-		}else if(url.indexOf("jd.com")!=-1 || url.indexOf("npcitem.jd.hk")!=-1 || url.indexOf("yiyaojd.com")!=-1){
+		}else if(url.indexOf("jd.com")!=-1 || url.indexOf("npcitem.jd.hk")!=-1 || url.indexOf("yiyaojd.com")!=-1 || url.indexOf("jkcsjd.com")!=-1){
 			platform = "jd";
 		}else if(url.indexOf("detail.vip.com")!=-1 || url.indexOf("www.vipglobal.hk")!=-1){
 			platform = "vpinhui";
@@ -428,20 +443,30 @@ function CommonFunction(){
 			}
 		});
 	};
-	this.getElementObject = function(selector, allowEmpty = true, delay=10, maxDelay=2000){
+	this.getElementObject = function(selector, target=document.body, allowEmpty = true, delay=10, maxDelay=10 * 1000){
 		return new Promise((resolve,reject) =>{
+			if (selector.toUpperCase() === "BODY") {
+				resolve(document.body);
+				return;
+			}
+			if (selector.toUpperCase() === "HTML") {
+				resolve(document.html);
+				return;
+			}
 			let totalDelay = 0;
-			let element = document.querySelector(selector);
+			
+			let element = target.querySelector(selector);
 			let result = allowEmpty ? !!element : (!!element && !!element.innerHTML);
 			if(result){
 				resolve(element);
 			}
-			let elementInterval = setInterval(()=>{
-				if(totalDelay >= maxDelay){ //总共检查2s，如果还是没找到，则返回
+			
+			const elementInterval = setInterval(()=>{
+				if(totalDelay >= maxDelay){
 					clearInterval(elementInterval);
 					resolve(null);
 				}
-				element = document.querySelector(selector);
+				element = target.querySelector(selector);
 				result = allowEmpty ? !!element : (!!element && !!element.innerHTML);
 				if(result){
 					clearInterval(elementInterval);
@@ -477,13 +502,23 @@ function CommonFunction(){
 			}
 		}
 		return format;
-	}
+	};
+	this.decryptStr=function(str){
+		let result = atob(str);
+		return result.split('').reverse().join('');
+	};
+	this.encryptStr=function(str){
+		let result = str.split('').reverse().join('');
+		return btoa(result);
+	};
 }
 //全局弹窗对象
-const popup = (function(){
-	class Popup {
+const dialog = (function(){
+	class Dialog {
 		constructor() {
-			this.mask = document.createElement('div')
+			this.mask = document.createElement('div');
+			this.dialogStyle = document.createElement('style');
+			
 			this.setStyle(this.mask, {
 				"width": '100%',
 				"height": '100%',
@@ -493,10 +528,10 @@ const popup = (function(){
 				"top": "0px",
 				"bottom":"0px",
 				"right":"0px",
-				"z-index":"99999"
-			})
-			// 创建中间显示内容的水平并垂直居中的div
-			this.content = document.createElement('div')
+				"z-index":"9999999999999"
+			});
+			
+			this.content = document.createElement('div');
 			this.setStyle(this.content, {
 				"max-width": '450px',
 				"width":"100%",
@@ -507,93 +542,98 @@ const popup = (function(){
 				"left": '50%',
 				"top": '50%',
 				"transform": 'translate(-50%,-50%)',
-				"borderRadius": '3px'
+				"borderRadius": '5px'
 			})
-			// 将这个小div放在遮罩中
-			this.mask.appendChild(this.content)
+			this.mask.appendChild(this.content);
 		}
 		middleBox(param) {
 			// 先清空中间小div的内容 - 防止调用多次，出现混乱
-			this.content.innerHTML = ''
+			this.content.innerHTML = '';
+			
 			let title = '默认标题内容';
-			// 检测参数类型
 			if({}.toString.call(param) === '[object String]') {
-				title = param
+				title = param;
 			} else if({}.toString.call(param) === '[object Object]') {
-				title = param.title
+				title = param.title;
 			}
-			// 将遮罩放在body中显示
-			document.body.appendChild(this.mask)
-			// 给中间的小div设置默认的排版
-			// 上面标题部分
-			this.title = document.createElement('div')
-			// 设置样式
+
+			document.body.appendChild(this.mask);
+			this.title = document.createElement('div');
 			this.setStyle(this.title, {
 				"width": '100%',
 				"height": '40px',
 				"lineHeight": '40px',
 				"boxSizing": 'border-box',
-				"background-color":"#FF4D40",
-				"color": '#FFF',
+				"background-color":"#dedede",
+				"color": '#000',
 				"text-align": 'center',
 				"font-weight":"700",
-				"font-size":"16px"
-				
-			})
-			// 设置默认标题内容
-			this.title.innerText = title
-			// 将标题部分放在中间div中
-			this.content.appendChild(this.title)
-			// 关闭按钮
-			this.closeBtn = document.createElement('div')
-			// 设置内容
-			this.closeBtn.innerText = '×'
-			// 设置样式
+				"font-size":"17px",
+				"border-radius": "4px 4px 0px 0px"
+			});
+			
+			this.title.innerText = title;
+			this.content.appendChild(this.title);
+
+			this.closeBtn = document.createElement('div');
+			this.closeBtn.innerText = '×';
+			
 			this.setStyle(this.closeBtn, {
 				"textDecoration": 'none',
-				"color": '#666',
+				"color": '#000',
 				"position": 'absolute',
 				"right": '10px',
 				"top": '0px',
 				"fontSize": '25px',
-				"color": '#FFF',
 				"display":"inline-block",
 				"cursor":"pointer"
 			})
-			// 将关闭按钮放在中间小div中
-			this.title.appendChild(this.closeBtn)
-			this.closeBtn.onclick = () => this.close()
+			this.title.appendChild(this.closeBtn);
+			
+			const self = this;
+			this.closeBtn.onclick = function(){
+				self.close();
+				if(param.onClose && (typeof param.onClose)==="function"){
+					param.onClose();
+				}
+			}
 		}
-		// 弹出提示框
-		dialog(param) {
+		showMake(param) {
+			//添加公用样式表
+			if(param.hasOwnProperty("styleSheet")){
+				this.dialogStyle.textContent = param.styleSheet;
+			}
+			document.querySelector("head").appendChild(this.dialogStyle);
+			
 			this.middleBox(param);
-			this.dialogContent = document.createElement('div')
+			this.dialogContent = document.createElement('div');
 			this.setStyle(this.dialogContent,{
 				"padding":"15px",
 				"max-height":"400px"
-			})
+			});
 			this.dialogContent.innerHTML = param.content;
-			this.content.appendChild(this.dialogContent)
+			this.content.appendChild(this.dialogContent);
 			param.onContentReady(this);
 		}
 		close() {
-			document.body.removeChild(this.mask)
-			window.location.reload();
+			document.body.removeChild(this.mask);
+			document.querySelector("head").removeChild(this.dialogStyle);
 		}
-		setStyle(ele, styleObj) { // 设置样式的函数
+		setStyle(ele, styleObj) {
 			for(let attr in styleObj){
-				ele.style[attr] = styleObj[attr]
+				ele.style[attr] = styleObj[attr];
 			}
 		}
 	}
-	let popup = null;
+	let dialog = null;
 	return (function() {
-		if(!popup) {
-			popup = new Popup()
+		if(!dialog) {
+			dialog = new Dialog()
 		}
-		return popup;
+		return dialog;
 	})()
 })();
+	
 //全局统一方法对象
 const commonFunctionObject = new CommonFunction(); 
 commonFunctionObject.addCommonHtmlCss();	//统一html、css元素添加
@@ -670,9 +710,12 @@ function usersSeting(){
 			</div>
 		`
 	}
-	popup.dialog({
+	dialog.showMake({
 		"title":"功能开关",
 		"content":content,
+		"onClose":function(){
+			location.reload();
+		},
 		"onContentReady":function($that){
 			$that.dialogContent.querySelectorAll("input[type='checkbox']").forEach(function(checkbox){
 				checkbox.addEventListener("click", function(e){
@@ -853,7 +896,6 @@ function SuperVideoHelper(originalInterfaceList){
 												1、<b style='color:red;'>需要使用VIP视频解析的，请自行添加接口</b>，版权问题请联系相关解析接口所有者，脚本不承担相关责任！"<br>
 												2、为创造良好的创作氛围，请大家支持正版！<br>
 												3、脚本仅限个人学习交流，使用即已代表您已经充分了解相关问题，否则后果自负，特此声明！<br>
-												
 											</div>
 										</div>
 									</div>
@@ -989,7 +1031,7 @@ function SuperVideoHelper(originalInterfaceList){
 				</div>
 			</div>
 		`;
-		popup.dialog({
+		dialog.showMake({
 			"title":"解析接口添加",
 			"content":content,
 			"onContentReady":function($that){
@@ -1110,7 +1152,6 @@ function SuperVideoHelperMobile(originalInterfaceList){
 									2、为创造良好的创作氛围，请大家支持正版！
 									3、脚本仅限个人学习交流，切勿用于任何商业等其它用途！
 									4、继续使用，即表明你已经明确使用脚本可能带来的风险，且愿意自行承担相关风险，对于风险脚本不承担任何责任！
-									
 								</div>
 							</div>
 					</div>
@@ -1682,7 +1723,6 @@ function BilibiliHelper(){
 				`;
 				let htmlText=`
 					<div id="bilibili_exti_9787fjfh12j">
-						
 						<div class="self_s_btn" id="download_s_`+randomNumber+`">下载视频</div>
 						<div class="self_s_btn" id="focus_s_`+randomNumber+`">一键三连</div>
 					</div>
@@ -1737,9 +1777,6 @@ function BilibiliHelper(){
 					$("#arc_toolbar_report .video-like").click(); // 点赞
 					$("#arc_toolbar_report .video-coin").click(); // 投币
 					// $("#arc_toolbar_report .video-fav").click(); // 收藏
-				});
-				$("body").on("click","#pro_s_"+randomNumber, function(){
-					commonFunctionObject.GMopenInTab("https://github.com/huahuacatTX/greasyfork");
 				});
 			}
 			this.start = function(){
@@ -2137,8 +2174,8 @@ function SearchEnginesNavigation(){
 		{"host":"www.bing.com", "element":"#b_context","elementInput":"#sb_form_q"},
 		{"host":"www4.bing.com", "element":"#b_context","elementInput":"#sb_form_q"},
 		{"host":"so.toutiao.com", "element":".s-side-list","elementInput":"input[type='search']"},
-		{"host":"www.google.com", "element":"#rhs","elementInput":"input[type='text']"},
-		{"host":"www.google.com.hk","element":"#rhs","elementInput":"input[type='text']"},
+		{"host":"www.google.com", "element":"#rhs","elementInput":"textarea[name='q']"},
+		{"host":"www.google.com.hk","element":"#rhs","elementInput":"textarea[name='q']"},
 		{"host":"duckduckgo.com","element":".react-results--sidebar","elementInput":"#search_form_input"}
 	];
 	this.defaultNavigationData =  [
@@ -2300,9 +2337,12 @@ function SearchEnginesNavigation(){
 				</div>
 			</div>
 		`;
-		popup.dialog({
+		dialog.showMake({
 			"title":"自定义添加导航",
 			"content":content,
+			"onClose":function(){
+				location.reload();
+			},
 			"onContentReady":function($that){
 				var $navigationExample = $that.dialogContent.querySelector(".navigation-example");
 				var $navigationClear = $that.dialogContent.querySelector(".navigation-clear");
@@ -2578,54 +2618,71 @@ try{
 }catch(e){
 	console.log("搜索引擎导航：error："+e);
 }
-	function QueryCoupon(){
+	/**
+ * 购物助手部分功能借鉴自：https://greasyfork.org/zh-CN/scripts/428266
+ * 作者：洪皓儿，原脚本开源协议：AGPL License
+ * 本脚本继承AGPL License协议并开源，在源代码基础上优化了部分逻辑，修复了部分bug，特此申明！！
+ */
+const recordBrowsingHistoryKey = "record_browsing_history_mark_key";
+const browsedHtml= `
+	<div style="position:absolute;white-space: nowrap; top:7px;padding:2px 5px;font-size:12px;background-color:rgba(0,0,0);color:#FFF;z-index:9999999999;border-radius:20px;right:10px;"><b>已浏览</b></div>
+`
+function QueryCoupon(){
+	this.platforms = ["detail.tmall.com", "item.taobao.com", "item.jd.com", "item.yiyaojd.com", "npcitem.jd.hk", 
+		"detail.tmall.hk", "detail.vip.com", "item.jkcsjd.com"];
 	this.createQrcodeIsResult = true;
-	this.isRun = function(){
-		var urls=["detail.tmall.com", "item.taobao.com", "item.jd.com", "item.yiyaojd.com", 
-			"npcitem.jd.hk", "detail.tmall.hk", "detail.vip.com", "www.vipglobal.hk"];
-		for(var i=0; i<urls.length; i++){
-			if(window.location.host.indexOf(urls[i])!=-1){
+	this.isRun=function(){
+		for(var i=0; i<this.platforms.length;i++){
+			if(window.location.host.indexOf(this.platforms[i])!=-1){
 				return true;
 			}
 		}
 		return false;
-	}
-	this.getGoodsData = async function(platform){
+	};
+	this.filterName=function(str){
+		if(!str) return "";
+		str = str.replace(/\t/g,"");
+		str = str.replace(/\r/g,"");
+		return encodeURIComponent(str)
+	};
+	this.getGoodsData=async function(platform){
 		var goodsId = "";
 		var goodsName = "";
-		var href = window.location.href;
+		const href = window.location.href;
 		if(platform=="taobao"){
 			goodsId = commonFunctionObject.getParamterQueryUrl(window.location.search, "id");
 			try{
-				let titleObj = document.querySelector(".tb-main-title");
-				if(!titleObj){
-					titleObj = await commonFunctionObject.getElementObject("[class^='ItemHeader--mainTitle--']", false, 10, 500);
-				}
+				const titleObj = document.querySelector("[class^='ItemTitle--']");
 				if(!!titleObj){
 					goodsName = titleObj.textContent;
 				}
 			}catch(e){}
+			
 		}else if(platform=="tmall"){
 			goodsId = commonFunctionObject.getParamterQueryUrl(window.location.search, "id");
 			try{
-				const titleObj = await commonFunctionObject.getElementObject("[class^='ItemHeader--mainTitle--']", false, 10, 500);
-				goodsName = titleObj.textContent;
+				const titleObj = document.querySelector("[class^='ItemTitle--']");
+				if(!!titleObj){
+					goodsName = titleObj.textContent;
+				}
 			}catch(e){}
-
+			
 		}else if(platform=="jd"){
 			goodsId = commonFunctionObject.getEndHtmlIdByUrl(href);
 			try{
-				const titleObj = await commonFunctionObject.getElementObject("[class='sku-name']", false, 10, 500);
-				goodsName = titleObj.textContent;
+				const titleObj = document.querySelector("[class='sku-name']");
+				if(!!titleObj){
+					goodsName = titleObj.textContent;
+				}
 			}catch(e){}
 		}else if(platform=="vpinhui"){
 			goodsId = commonFunctionObject.getEndHtmlIdByUrl(href).replace("detail-","");
-			try{
-				const titleObj = await commonFunctionObject.getElementObject("[class='pib-title-detail']", false, 10, 500);
+			const titleObj = document.querySelector("[class='pib-title-detail']");
+			if(!!titleObj){
 				goodsName = titleObj.textContent;
-			}catch(e){}
+			}
 		}
-		var data={"goodsId":goodsId, "goodsName":commonFunctionObject.filterStr(goodsName)};
+		const data = {"goodsId":goodsId, "goodsName":this.filterName(goodsName)};
 		return data;
 	};
 	this.randomSpmValue=function(){
@@ -2648,34 +2705,173 @@ try{
 			$(this).removeAttr("data-spm");
 		});
 	};
-	this.runAliDeceptionSpm=function() {
-		if(window.location.host.indexOf("aliyun.com")!=-1 || window.location.host.indexOf("taobao.com")!=-1 || window.location.host.indexOf("tmall.com")!=-1){
+	this.runAliDeceptionSpm=function(){
+		const host = window.location.host;
+		if(host.indexOf("aliyun.com")!=-1 || host.indexOf("taobao.com")!=-1 || host.indexOf("tmall.com")!=-1){
 			this.randomSpmValue();
 			setInterval(()=>{
 				this.randomSpmValue();
 			}, 2000);
 		}
 	};
-	this.request = function(mothed, url, param){
-		return new Promise(function(resolve, reject){
-			GM_xmlhttpRequest({
-				url: url,
-				method: mothed,
-				data:param,
-				onload: function(response) {
-					var status = response.status;
-					var playurl = "";
-					if(status==200||status=='200'){
-						var responseText = response.responseText;
-						resolve({"result":"success", "json":responseText});
-					}else{
-						reject({"result":"error", "json":null});
+	this.browsingHistoryMark=function(platform, goodsId){
+		let histories = commonFunctionObject.GMgetValue(recordBrowsingHistoryKey,[]);
+		let saveContent = platform+"_"+goodsId;
+		if(!histories.includes(saveContent)){
+			histories.unshift(saveContent);
+			commonFunctionObject.GMsetValue(recordBrowsingHistoryKey,histories.slice(0,60));
+		}
+	};
+	this.createHtml=async function(platform, goodsId, goodsName){
+		if(!platform || !goodsId){
+			return "kong";
+		}
+		this.browsingHistoryMark(platform, goodsId); //把浏览记录给存在本地
+		let addition = "";
+		if(platform=="vpinhui"){
+			const vip = goodsId.split("-");
+			addition = vip[0];
+			goodsId = vip[1];
+		}
+		const goodsCouponUrl = "https://tt.shuqiandiqiu.com/api/coupon/discover?no=5&v=1.0.2&pl="+platform+"&id="+goodsId+"&qu="+goodsName+"&addition="+addition;
+		try{
+			const data = await commonFunctionObject.request("GET", goodsCouponUrl, null);
+			if(data.result=="success" && !!data.data){
+				const json = JSON.parse(data.data);
+				
+				await this.createCoupon(platform, json.data);
+				await this.createQrcode(platform, json.mscan);
+									
+				//开启插入检测
+				let heartms = 0;
+				const HEART_DELAY = 1500, MAX_MS = 1000*30;  
+				const createResultInterval = setInterval(async ()=>{
+					if(this.createQrcodeIsResult){
+						if(document.querySelector("*[name='exist-llkbccxs-9246-hi']") || heartms>=MAX_MS){
+							clearInterval(createResultInterval);
+						}else{
+							await this.createCoupon(platform, json.data);
+						}
+					}
+					heartms += HEART_DELAY;
+				}, HEART_DELAY);
+			}
+		}catch(e){
+			console.log("createCouponHtml:",e);
+		}
+	};
+	this.getHandlerElement=async function(handler){
+		const getElement = async (handler)=>{
+			const promiseArray = [];
+			const handlers = handler.split("@");
+			for(let i=0; i<handlers.length; i++){
+				const eleName = handlers[i];
+				if(!eleName){
+					continue;
+				}
+				if(eleName=="body"){
+					promiseArray.push(
+						new Promise((resolve,reject) =>{ resolve(document.body) }) 
+					);
+				}else if(eleName=="html"){
+					promiseArray.push(
+						new Promise((resolve,reject) =>{ resolve(document.html) }) 
+					);
+				}else{
+					promiseArray.push(commonFunctionObject.getElementObject(eleName, document.body, true, 10, 1500));
+				}
+			}
+			const element = await Promise.race(promiseArray);
+			return element ? element : null;
+		}
+
+		const element = await getElement(handler);
+		return new Promise((resolve,reject) =>{
+			resolve(element);
+		});
+	};
+	this.createCoupon=async function(platform, result){
+		try{
+			this.createQrcodeIsResult = false;
+			if(!result || result==="null" || !result.hasOwnProperty("css") || !result.hasOwnProperty("html") || !result.hasOwnProperty("handler")){
+				return;
+			}
+			const  cssText = result.css, htmlText = result.html, handler = result.handler, templateId = result.templateId;
+			if(!cssText || !htmlText || !handler){
+				return;
+			}
+			GM_addStyle(cssText);
+
+			// 添加HTML, 需要动态检测元素
+			const handlerElement = await this.getHandlerElement(handler);
+			if(handlerElement){
+				const $handlerElement = $(handlerElement);
+				if(platform=="taobao"){
+					$handlerElement.parent().after(htmlText);
+				}else if(platform=="tmall"){
+					$handlerElement.parent().after(htmlText);
+				}else if(platform=="jd"){
+					$handlerElement.after(htmlText);
+				}else if(platform=="vpinhui"){
+					$handlerElement.after(htmlText);
+				}
+			}
+			
+			const $template = $("#"+templateId);
+			if($template.length == 0){
+				return;
+			}
+			
+			const couponId = $template.data("id");
+			const goodsPrivateUrl = "https://tt.shuqiandiqiu.com/api/private/change/coupon?no=5&v=1.0.2&platform="+platform+"&id=";
+			
+			if(!/\d/.test(couponId)){
+				return;
+			}
+			
+			setInterval(()=>{
+				$template.find("*").each(function(){
+					$(this).removeAttr("data-spm-anchor-id");
+				});
+			},400);
+			
+			const couponElementA = $template.find("a[name='cpShUrl']");				
+			couponElementA.unbind("click").bind("click", ()=>{
+				event.stopPropagation();
+				event.preventDefault();
+				commonFunctionObject.request("GET", goodsPrivateUrl+couponId, null).then((privateResultData)=>{
+					if(privateResultData.result==="success" && !!privateResultData.data){
+						let url = JSON.parse(privateResultData.data).url;
+						if(!!url) GM_openInTab(url, {active:true});
+					}
+				});
+			});
+								
+			//canvas画二维码
+			var $canvasElement = $("#ca"+templateId);
+			if($canvasElement.length == 0){
+				return;
+			}
+			const qrcodeResultData = await commonFunctionObject.request("GET", goodsPrivateUrl+couponId, null);
+			if(!!qrcodeResultData && qrcodeResultData.result==="success" && !!qrcodeResultData.data){
+				let img = JSON.parse(qrcodeResultData.data).img;
+				if(!!img){
+					var canvasElement = document.getElementById("ca"+templateId);
+					var cxt = canvasElement.getContext("2d");
+					var imgData = new Image();
+					imgData.src = img;
+					imgData.onload=function(){
+						cxt.drawImage(imgData, 0, 0, imgData.width, imgData.height);
 					}
 				}
-			});
-		})
+			}
+		}catch(e){
+			console.log("~~~~~~~~~~~~~~~~~",e);
+		}finally{
+			this.createQrcodeIsResult = true;
+		}
 	};
-	this.createQrcode = async function(platform, mscan){
+	this.createQrcode=async function(platform, mscan){
 		if(!mscan || mscan==="null" || !mscan.hasOwnProperty("mount") 
 			|| !mscan.hasOwnProperty("html")|| !mscan.hasOwnProperty("qrcode")){
 			return;
@@ -2694,397 +2890,392 @@ try{
 			}
 		}
 	};
-	this.createCoupon = async function(platform, data){
-		try{
-			this.createQrcodeIsResult = false;
-			if(!data || data==="null" || !data.hasOwnProperty("css") || !data.hasOwnProperty("html")|| !data.hasOwnProperty("handler")){
-				return;
-			}
-			const cssText = data.css, htmlText = data.html, handler = data.handler, templateId = data.templateId;
-			if(!cssText || !htmlText || !handler){
-				return;
-			}
-			$("body").prepend("<style>"+cssText+"</style>");
-			
-			var handlers = handler.split("@");
-			for(var i=0; i<handlers.length; i++){
-				var $handler = $(""+handlers[i]+"");
-				if(platform=="taobao"){
-					$handler.parent().after(htmlText);
-				}else if(platform=="tmall"){
-					$handler.parent().after(htmlText);
-				}else if(platform=="jd"){
-					$handler.after(htmlText);
-				}else if(platform=="vpinhui"){
-					$handler.after(htmlText);
-				}
-			}
-			
-			const $llkk = $("#"+templateId);
-			if($llkk.length == 0){
-				return;
-			}
-			
-			const couponId = $llkk.data("id");
-			const goodsPrivateUrl = "http://tt.shuqiandiqiu.com/api/private/change/coupon?no=5&v=1.0.2&platform="+platform+"&id=";
-			
-			if(!/\d/.test(couponId)){
-				return;
-			}
-			
-			setInterval(()=>{
-				$llkk.find("*").each(function(){
-					$(this).removeAttr("data-spm-anchor-id");
-				});
-			},400);
-			
-			const couponElementA = $llkk.find("a[name='cpShUrl']");
-			couponElementA.unbind("click").bind("click", ()=>{
-				event.stopPropagation();
-				event.preventDefault();
-				this.request("GET", goodsPrivateUrl+couponId, null).then((privateResultData)=>{
-					if(privateResultData.result==="success" && !!privateResultData.json){
-						let url = JSON.parse(privateResultData.json).url;
-						if(!!url) GM_openInTab(url, {active:true});
-					}
-				});
-			});
-								
-			//canvas画二维码
-			var $canvasElement = $("#ca"+templateId);
-			if($canvasElement.length == 0){
-				return;
-			}
-			const qrcodeResultData = await this.request("GET", goodsPrivateUrl+couponId, null);
-			if(!!qrcodeResultData && qrcodeResultData.result==="success" && !!qrcodeResultData.json){
-				let img = JSON.parse(qrcodeResultData.json).img;
-				if(!!img){
-					var canvasElement = document.getElementById("ca"+templateId);
-					var width = canvasElement.getAttribute("width");
-					var height = canvasElement.getAttribute("height");
-					var cxt = canvasElement.getContext("2d");
-					var imgData = new Image();
-					imgData.src = img;
-					imgData.onload=function(){
-						cxt.drawImage(imgData, 0, 0, width, height);
-					}
-				}
-			}
-		}catch(e){
-			console.log("~~~~~~~~~~~~~~~~~~~~", e);
-		}finally{
-			//一定会执行
-			this.createQrcodeIsResult = true;
-		}
-	};
-	this.createHtml = async function(platform, goodsId, goodsName){
-		if(!platform || !goodsId){
-			return;
-		};
-		let addition = "";
-		if(platform=="vpinhui"){
-			const vip = goodsId.split("-");
-			addition = vip[0];
-			goodsId = vip[1];
-		}
-		const goodsCouponUrl = "http://tt.shuqiandiqiu.com/api/coupon/discover?no=5&v=1.0.2&pl="+platform+"&id="+goodsId+"&qu="+goodsName+"&addition="+addition;
-		try{
-			const resutData = await this.request("GET", goodsCouponUrl, null);
-			if(!!resutData && resutData.result==="success" && !!resutData.json){
-				const json = JSON.parse(resutData.json);
-				await this.createCoupon(platform, json.data);
-				//开启插入检测
-				let heartms = 0;
-				const HEART_DELAY = 250, MAX_MS = 1000*20; 
-				const createResultInterval = setInterval(async ()=>{
-					if(this.createQrcodeIsResult){
-						if(document.querySelector("div[name='exist-llkbccxs-9246-hi']") || heartms>=MAX_MS){
-							clearInterval(createResultInterval);
-						}else{
-							await this.createCoupon(platform, json.data); 
-						}
-					}
-					heartms += HEART_DELAY;
-				}, HEART_DELAY);
-				await this.createQrcode(platform, json.mscan);
-			}
-		}catch(e){
-			console.log("createCouponHtml",e);
-		}
-	};
-	this.start = async function(){
+	this.start=async function(){
 		if(this.isRun()){
 			this.runAliDeceptionSpm();
-			var platform = commonFunctionObject.getEcommercePlatform();
+			const platform = commonFunctionObject.getEcommercePlatform();
 			if(!platform) return;
 			//如果sku太多就折叠,不然移动端体验太差了
 			if(platform=="tmall" || platform=="taobao"){
-				commonFunctionObject.getElementObject("[class='skuItemWrapper']", false, 10, 1500).then((skuItemWrapper)=>{
+				commonFunctionObject.getElementObject("div[class^='skuWrapper--']", document.body, false, 10, 1500).then((skuItemWrapper)=>{
 					if(skuItemWrapper != null){
 						const { style } = skuItemWrapper;
-						style.maxHeight = "350px";
+						style.maxHeight = "400px";
 						style.overflow = "auto";
 					}
 				}).catch(()=>{});
+			}else if(platform=="jd"){
+				const skuItemWrapper = document.querySelector("#choose-attrs");
+				if(skuItemWrapper){
+					const { style } = skuItemWrapper;
+					style.maxHeight = "400px";
+					style.overflow = "auto";
+				}
 			}
 			const goodsData = await this.getGoodsData(platform);
 			this.createHtml(platform, goodsData.goodsId, goodsData.goodsName);
 		}
 	};
 }
+
 function SearchPageObject(){
 	this.intervalIsRunComplete = true;  //定时任务一个循环是否完成
-	this.pickupSearchElements = function(){ //收集列表的元素
+	this.histories = commonFunctionObject.GMgetValue(recordBrowsingHistoryKey, []);
+	this.isRun = function(){
+		const visitHref = window.location.href;
+		const allows = [
+			/^https:\/\/www\.taobao\.com(\/|\/\?)?/i,//淘宝首页
+			/^https:\/\/s\.taobao\.com/i,
+			/^https:\/\/shop(\d+)\.taobao\.com/i, 
+			/^https:\/\/www\.tmall\.com(\/|\/\?)?/i,//天猫首页
+			/pages\.tmall\.com/i,
+			/list\.tmall\.com/i,
+			/list\.tmall\.hk/i,
+			/tmall\.com\/category/i,
+			/tmall\.com\/search/i,
+			/tmall\.com\/shop/i,
+			/tmall\.com\/\?q=/i,
+			/maiyao\.liangxinyao\.com/i,
+			/^https:\/\/www\.jd\.com(\/|\/\?)?/i, //京东主页
+			/search\.jd\.com/i,
+			/search\.jd\.hk/i,
+			/pro\.jd\.com\/mall/i,
+			/jd\.com\/view_search/i, //商店主页
+			/category\.vip\.com/i,
+			/list\.vip\.com/i
+		];
+		let isAllow = false;
+		for(let i=0; i<allows.length; i++){
+			if(allows[i].test(visitHref)){
+				isAllow = true;
+				break;
+			}
+		}
+		return isAllow;
+	};
+	
+	this.requestConf=function(){
+		return new Promise((resolve, reject)=>{
+			commonFunctionObject.request("GET", "https://tt.shuqiandiqiu.com/api/plugin/load/conf", null).then((data)=>{
+				if(data.result=="success" && !!data.data){
+					resolve(data.data);
+				}else{
+					resolve(null);
+				}
+			});
+		});
+	};
+	
+	this.pickupSearchElements=function(conf){ //收集列表的元素
 		const selectorElementList = new Array();
 		const url = window.location.href;
-		if(url.indexOf("://s.taobao.com/search")!=-1 || url.indexOf("://s.taobao.com/list")!=-1) { //淘宝搜索页面
-			selectorElementList.push({"element":".items >.item", "page":"taobao"});
-	
-			selectorElementList.push({"element":".Content--content--sgSCZ12 .Card--doubleCardWrapper--L2XFE73", "page":"taobao_new"});
-			selectorElementList.push({"element":".Content--content--sgSCZ12 .Card--listCardWrapper--ax09OfT", "page":"taobao_new"});
-			selectorElementList.push({"element":".Content--content--sgSCZ12 .Card--doubleCardWrapperMall--uPmo5Bz", "page":"taobao_new"});
-			selectorElementList.push({"element":".Content--content--sgSCZ12 .Card--listCardWrapperMall--E3jI8L4", "page":"taobao_new"});
-	
-		}else if(url.indexOf("taobao.com/category")!=-1){ //淘宝店铺分类
-			selectorElementList.push({"element":"dl.item", "page":"taobao_category"});
-		}else if(url.indexOf("taobao.com/search.htm")!=-1){ //淘宝店铺搜索
-			selectorElementList.push({"element":"dl.item", "page":"taobao_shop_search"});
-		}
-		else if (url.indexOf("://list.tmall.com/search_product.htm")!=-1 || url.indexOf("://list.tmall.com//search_product.htm")!=-1
-			|| url.indexOf("://list.tmall.com/coudan/search_product.htm")!=-1) { //天猫超市
-	
-			selectorElementList.push({"element":".product", "page":"tmall_chaoshi_search"});
-			selectorElementList.push({"element":".chaoshi-recommend-list .chaoshi-recommend-item", "page":"tmall_chaoshi_search_new"}); //新天猫超市
-	
-		}else if (url.indexOf("//list.tmall.hk/search_product")!=-1) { //天猫国际
-			selectorElementList.push({"element":"#J_ItemList .product", "page":"tmall_hk"});
-		}else if(url.indexOf("tmall.com/category-")!=-1){ //天猫分类
-			selectorElementList.push({"element":"#J_ShopSearchResult dl.item", "page":"tmall_category"});
-		}else if(url.indexOf("tmall.com/category-")!=-1){ //天猫旗舰店分类
-			selectorElementList.push({"element":"#J_ShopSearchResult dl.item", "page":"tmall_category"});
-		}else if(url.indexOf(".tmall.com/shop/view_shop.htm")!=-1){ //天猫旗舰全部展示
-			selectorElementList.push({"element":"dl.item", "page":"tmall_shop_01"});
-		}else if(url.indexOf(".tmall.com/search.htm")!=-1){
-			selectorElementList.push({"element":"dl.item", "page":"tmall_shop_search"});
-		}
-		else if(url.indexOf("//maiyao.liangxinyao.com/shop/view_shop.htm")!=-1 
-			|| url.indexOf("//maiyao.liangxinyao.com/search.htm")!=-1
-			|| url.indexOf("//maiyao.liangxinyao.com/category")!=-1){ //阿里大药房
-			selectorElementList.push({"element":"#J_ShopSearchResult dl.item", "page":"ali_yao"});
-		}
-		else if (url.indexOf("//search.jd.com/Search")!=-1 || url.indexOf("//search.jd.com/search")!=-1) { //京东搜索
-			selectorElementList.push({"element":"#J_goodsList li.gl-item", "page":"jd_search"});
-		}else if(url.indexOf("//search.jd.hk/Search")!=-1){ //京东国际https://search.jd.hk/Search?keyword=ds
-			selectorElementList.push({"element":"#plist li.gl-item", "page":"jd_hk_search"}); //可能已弃用
-			selectorElementList.push({"element":"li[class^='productList_']", "page":"jd_hk_new_search"});//20240119添加
-		}else if(url.indexOf("//mall.jd.com/view_search")!=-1){ //京东大药房
-			selectorElementList.push({"element":"li.jSubObject", "page":"jd_yao_search"});
-		}else if(url.indexOf("www.jd.com")!=-1 && window.location.pathname=="/"){
-			selectorElementList.push({"element":"#feedContent0 li.more2_item_good", "page":"jd_homepage"});
-		}
-		else if(url.indexOf("category.vip.com/suggest.php")!=-1){
-			selectorElementList.push({"element":"#J_searchCatList .c-goods-item", "page":"vpinhui_search_page"});
-		}else if(url.indexOf("://list.vip.com")!=-1){
-			selectorElementList.push({"element":"#J_wrap_pro_add .c-goods-item", "page":"vpinhui_list"});
+		let confFilter = conf;
+		try{
+			confFilter = confFilter.replace(/\\\\/g,"\\");
+		}catch(e){}
+		const confJson = JSON.parse(confFilter);
+		for(let key in confJson){
+			if(!confJson.hasOwnProperty(key)){
+				continue;
+			}
+			for(let i=0; i<confJson[key].length; i++){
+				const itemJson = confJson[key][i];
+				if(!itemJson.hasOwnProperty("elements") || !itemJson.hasOwnProperty("matches")){
+					continue;
+				}
+				const {elements, matches} = itemJson;
+				const isMatch = matches.map((reg)=>(new RegExp(reg, "i")).test(url)).some((res)=>res);
+				if(isMatch){
+					for(let j=0; j<elements.length; j++){
+						selectorElementList.push({
+							"element":elements[j]["element"],
+							"findA":elements[j]["findA"],
+							"page":elements[j]["page"]
+						});
+					}
+				}
+			}
 		}
 		return selectorElementList;
-	}
-	this.createAllElementHtml=function(elementData){ //为所有的商品创建提示
-		const self = this;
-		$(elementData.element).each(function(){  //遍历所有的商品框
-			self.createOneElementHtml($(this), elementData);
+	};
+	
+	
+	this.createAllElementHtml=function(items){ //为所有的商品创建提示
+		this.intervalIsRunComplete = false;
+		const promises = [];
+		items.forEach((item)=>{
+			promises.push(this.createOneElementHtml(item));
 		});
-		self.intervalIsRunComplete = true;
-	}
+		Promise.all(promises).then((result)=>{
+			this.intervalIsRunComplete = true;
+		});
+	};
+	
 	/**
 	 * 为商品box添加有券提醒
-	 * @param {Object} $element  每一个商品box
-	 * @param {Object} elementData id and page
 	 */
-	this.createOneElementHtml=async function($element, elementData){  //查询到每个商品list
-		if($element.attr("inspectresultx")){  //当存在时，说明已经处理过了
-			return;
-		}
-		$element.attr("inspectresultx", "true");
-		$element.css("position","relative");
-		var page = elementData.page;
-		var goodsDetailUrl = null;
-		
-		if(page==="taobao"){
-			goodsDetailUrl = $element.find("a[id^='J_Itemlist_TLink_']").attr("href");
-		}else if(page==="taobao_new"){
-			let href = $element.attr("href");
-			goodsDetailUrl = href.indexOf("http") == -1 ? (location.protocol + href) : href;
-		}else if(page==="taobao_category"){
-			goodsDetailUrl = $element.find(".J_TGoldData").attr("href");
-		}else if(page==="taobao_shop_search"){
-			goodsDetailUrl = $element.find(".J_TGoldData").attr("href");
-		}else if(page==="ali_yao"){
-			goodsDetailUrl = $element.find(".J_TGoldData").attr("href");
-		}else if(page==="tmall_chaoshi_search"){
-			let href = $element.find("div.product-img").find("a").attr("href");
-			goodsDetailUrl = href.indexOf("http") ==-1 ? (location.protocol + href) : href;
-		}else if(page==="tmall_chaoshi_search_new"){
-			let href = !!$element.attr("href")?$element.attr("href"):$element.find("a").attr("href");
-			goodsDetailUrl = href.indexOf("http") ==-1 ? (location.protocol + href) : href;
-		}else if(page==="tmall_hk"){
-			goodsDetailUrl = $element.find("a.productImg").attr("href");
-		}else if(page==="tmall_category"){
-			goodsDetailUrl = $element.find(".J_TGoldData").attr("href");
-		}else if(page==="tmall_shop_01"){
-			goodsDetailUrl = $element.find("dt.photo").find("a").attr("href");
-		}else if(page==="tmall_shop_search"){
-			goodsDetailUrl = $element.find(".J_TGoldData").attr("href");
-		}
-		else if(page==="jd_search"){
-			goodsDetailUrl = $element.find("div.p-img").find("a").attr("href");
-		}else if(page==="jd_hk_search"){
-			goodsDetailUrl = $element.find("div.p-img").find("a").attr("href");
-		}else if(page==="jd_hk_new_search"){
-			goodsDetailUrl = $element.find("a").attr("href");
-		}else if(page==="jd_yao_search"){
-			goodsDetailUrl = $element.find("div.jPic").find("a").attr("href");
-		}else if(page=="jd_homepage"){
-			goodsDetailUrl = $element.find("a[class='more2_lk']").attr("href");
-		}
-		else if(page=="vpinhui_search_page"){
-			goodsDetailUrl = $element.find("a").attr("href");
-		}else if(page=="vpinhui_list"){
-			goodsDetailUrl = $element.find("a").attr("href");
-		}
-		if(!goodsDetailUrl){
-			return;
-		}
-		let analysisData = null;
-		if(page.indexOf("jd_")!=-1){
-			var jdId = commonFunctionObject.getEndHtmlIdByUrl(goodsDetailUrl);
-			if(!!jdId){
-				analysisData = {"id":jdId, "platform":"jd"};
+	this.createOneElementHtml=function(item){  //查询到每个商品list
+		const {element, page, findA} = item;
+		const self = this;
+		return new Promise(function(resolve, reject){
+			if(element.attr("honghaoerbox")){
+				resolve(-10000);
+				return;
 			}
-		}else if(page.indexOf("vpinhui_")!=-1){
-			var vipId = commonFunctionObject.getEndHtmlIdByUrl(goodsDetailUrl).replace("detail-","");
-			if(!!vipId){
-				analysisData = {"id":vipId.split("-")[1], "platform":"vpinhui"};
-			}
-		}else{
-			var platform = commonFunctionObject.getEcommercePlatform(goodsDetailUrl);
-			var id = commonFunctionObject.getParamterQueryUrl(goodsDetailUrl, "id");
-			if(platform && id){
-				analysisData = {"id":id, "platform":platform};
-			}
-		}
-		if(!analysisData){
-			return;
-		}
-		try{
-			const searchUrl = "http://j.jiayoushichang.com/api/ebusiness/coupon/exist/"+analysisData.platform+"?id="+analysisData.id;
-			const data = await commonFunctionObject.request("GET", searchUrl, null);
-			if(data.result=="success" && !!data.data){
-				const tip = JSON.parse(data.data).tip;
-				if(tip){
-					$element.append(tip);
+			element.attr("honghaoerbox","true");
+			element.css("position","relative");
+			element.on("click",function(){
+				$(this).append(browsedHtml);
+			});
+			
+			var goodsDetailUrl = null;
+			if(findA==="this"){
+				goodsDetailUrl = element.attr("href");
+			}else if(/^child@/.test(findA)){
+				const elementA = element.find(findA.replace(/^child@/,""));
+				if(elementA){
+					goodsDetailUrl = elementA.attr("href");
 				}
+			}
+			if(!goodsDetailUrl){
+				resolve(-20000);
+				return;
+			}
+			
+			var analysisData = null;
+			if(page.indexOf("jd_")!=-1){
+				var jdId = commonFunctionObject.getEndHtmlIdByUrl(goodsDetailUrl);
+				if(!!jdId) analysisData = {"id":jdId, "platform":"jd"};
+			}else if(page.indexOf("vpinhui_")!=-1){
+				var vipId = commonFunctionObject.getEndHtmlIdByUrl(goodsDetailUrl).replace("detail-","");;
+				if(!!vipId){
+					analysisData = {"id":vipId.split("-")[1], "platform":"vpinhui"};
+				}
+			}else{
+				var platform = commonFunctionObject.getEcommercePlatform(goodsDetailUrl);
+				var id = commonFunctionObject.getParamterQueryUrl(goodsDetailUrl, "id");
+				if(platform && id){
+					analysisData = {"id":id, "platform":platform};
+				}
+			}
+			if(!analysisData){
+				resolve(-30000);
+				return;
+			}
+			
+			const mark = analysisData.platform + "_" + analysisData.id;
+			if(self.histories.includes(mark)){
+				element.append(browsedHtml);
+			}
+			
+			const searchUrl = "https://j.jiayoushichang.com/api/ebusiness/coupon/exist/"+analysisData.platform+"?id="+analysisData.id;
+			commonFunctionObject.request("GET", searchUrl, null).then((data)=>{
+				if(data.result=="success" && !!data.data){
+					const { tip, encryptLink } = JSON.parse(data.data);
+					if(tip){
+						element.append(tip);
+					}
+					if(encryptLink){
+						let decryptUrl = null;
+						try{
+							const decryptLink = atob(encryptLink);
+							decryptUrl = decryptLink.split('').reverse().join('');
+						}catch(e){}
+						if(decryptUrl){
+							self.relativeJu(page, element, decryptUrl);
+						}
+					}
+				}
+				resolve(10000);
+			}).catch(()=>{
+				resolve(-40000);
+			});
+		});		
+	};
+	this.relativeJu=function(page, element, decryptUrl){
+		const self = this;
+		try{
+			if(page.indexOf("jd_")!=-1){
+				element.find("a").each(function(){
+					if($(this).attr("href").indexOf("item.jd.com")!=-1){
+						$(this).removeAttr("onclick");
+						$(this).unbind("click").bind("click", function(e){
+							e.preventDefault();
+							e.stopPropagation();
+							commonFunctionObject.GMopenInTab(decryptUrl);
+						});
+					}
+				});
+			}
+			else if(page.indexOf("taobao_")!=-1 || page.indexOf("tmall_")!=-1){
+				element.unbind("click").bind("click",function(e){
+					const target = $(e.target);
+					const tagName = target.prop("tagName").toUpperCase();
+					let isPreventDefault = false;
+					if(tagName==="A"){ //只有点击A标签才去判断
+						const href = target.attr("href");
+						const isDetail = [/detail\.tmall\.com/, /item\.taobao\.com/]
+							.map((reg)=> reg.test(href))
+							.some((result) => result);
+						if(isDetail){
+							isPreventDefault = true;
+						}
+					}else{
+						isPreventDefault = true;
+					}
+					if(isPreventDefault){
+						e.preventDefault();
+						e.stopPropagation();
+						commonFunctionObject.GMopenInTab(decryptUrl);
+					}	
+				});
+			}
+			else if(page.indexOf("vpinhui_")!=-1){
+				element.find("a").each(function(){
+					if($(this).attr("href").indexOf("detail.vip.com/detail-")!=-1){
+						$(this).unbind("click").bind("click", function(e){
+							e.preventDefault();
+							e.stopPropagation();
+							commonFunctionObject.GMopenInTab(decryptUrl);
+						});
+					}
+				});
 			}
 		}catch(e){
 			console.log(e);
 		}
-	}
+	};
+	
 	this.searchPage=function(selectorElementList){
-		if(!this.intervalIsRunComplete){
-			return;
-		}
+		const items = [];
 		selectorElementList.forEach((elementData)=>{
-			if(!!elementData){
-				this.createAllElementHtml(elementData);
+			if(elementData.element){
+				$(elementData.element).each(function(){
+					items.push({"element":$(this), "findA": elementData.findA, "page":elementData.page});
+				});
 			}
 		});
-	}
+		if(items.length>0){
+			this.createAllElementHtml(items);
+		}
+	};
+	
 	this.start=function(){
-		const selectorElementList = this.pickupSearchElements();
-		setInterval(()=>{
-			this.searchPage(selectorElementList);
-		}, 500);
+		if(this.isRun()){
+			this.requestConf().then((conf)=>{
+				const selectorElementList = this.pickupSearchElements(conf);
+				if(this.intervalIsRunComplete){
+					this.searchPage(selectorElementList);
+				}
+				setInterval(()=>{
+					if(this.intervalIsRunComplete){
+						this.searchPage(selectorElementList);
+					}
+				}, 1500);
+			});
+		}
 	};
 }
 try{
 	(new SearchPageObject()).start();
 	(new QueryCoupon()).start();
+	
+	if(/taobao|jd|tmall|jkcsjd|vip|vipglobal|yiyaojd|liangxinyao/.test(window.location.host)){
+		GM_registerMenuCommand("清除商品浏览记录", ()=> {
+			if(confirm('此弹窗来自脚本-[🔥]!!网购小助手,不花冤枉钱\n是否要移除所有的浏览记录？移除后将不可恢复...')){
+				commonFunctionObject.GMsetValue(recordBrowsingHistoryKey,[]); //已浏览标识
+			}
+		});
+	}
 }catch(e){
 	console.log("优惠券查询：error："+e);
 }
-	//国外的一些解析
-function AbroadVideoHelper(){
-	this.isRun = function(){
-		var urls=["youtube.com", "facebook.com"];
-		for(var i=0; i<urls.length;i++){
-			if(window.location.host.indexOf(urls[i])!=-1){
-				return true;
+	/**
+ * 代码借鉴子：https://greasyfork.org/en/scripts/501542-twitter-x-%E1%B4%BE%CB%A1%E1%B5%98%CB%A2-youtube%E1%B4%BE%CB%A1%E1%B5%98%CB%A2
+ * 原脚本开源协议为：MIT
+ * 本脚本在原脚本基础上优惠了部分逻辑，特此声明！
+ */
+function Tiktok(){
+	this.extractHref=function(html){
+		const regex = /<a\s+(?:[^>]*?\s+)?href=(['"])(.*?)\1/gi;
+		const hrefs = [];
+		let match;
+
+		while ((match = regex.exec(html)) !== null) {
+			hrefs.push(match[2]);
+		}
+		return hrefs.filter((href) => href.indexOf("snapcdn.app")!=-1);
+	};
+	this.download=async function(url, element){
+		commonFunctionObject.webToast({"message":"正在下载中...", "background":"#000"});
+		element.classList.add("download-loadding");
+		const data = await commonFunctionObject.request("POST", "https://tikdownloader.io/api/ajaxSearch", 
+			"q="+url+"&lang=en", {"Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"});
+		if(data.result==="success"){
+			const result = JSON.parse(data.data);
+			if(result.status=="ok" && result.hasOwnProperty("data")){
+				const data = result.data;
+				const downloadUrls = this.extractHref(data);
+				if(downloadUrls.length>=2){
+					commonFunctionObject.GMopenInTab(downloadUrls.at(-2));
+				}
 			}
 		}
-		return false;
+		element.classList.remove("download-loadding");
 	};
-	this.start = function(){
-		if(!this.isRun()){
+	this.start=async function(){
+		if(!/www\.tiktok\.com/.test(window.location.host)){
 			return;
 		}
-		setInterval(function(){
-			const host = window.location.host;
-			const href = window.location.href;
-			const eleId = "free-xx1-player-script-9999";
-			
-			//youtube解析
-			if(host.indexOf("youtube.com")!=-1){
-				if(href.indexOf("youtube.com/watch")!=-1){
-					if($("#"+eleId).length != 0){
-						return;
-					}
-					var html='<div id="'+eleId+'" style="width:50px;font-size:13px;cursor:pointer;font-weight:bold;text-align:center;background-color:rgba(0,0,0,0.05);border-radius:25px;padding: 9px 13px;position:relative;left:8px;">'+
-						'下载'+
-						'</div>';
-					$("#owner").append(html);
-					$("body").off("click", "#"+eleId).on("click", "#"+eleId, function(){
-						var location_url = window.location.href;
-						var videourl = "https://www.videofk.com/videofk-video-download/search?url="+location_url;
-						commonFunctionObject.GMopenInTab(videourl);
+		commonFunctionObject.GMaddStyle(`
+			@keyframes scriptspin {0% {transform: rotate(0deg);} 100% {transform: rotate(360deg);}}
+			.download-loadding{
+				animation: scriptspin 1s linear infinite;
+			}
+		`);
+		setInterval(()=>{
+			if(!document.querySelector("#tiktok-download-990i")){
+				const container = document.querySelector('#main-content-video_detail') || document.body;
+				if(!container){
+					return;
+				}
+				
+				const divs = container.querySelectorAll("div");
+				const regex = /-DivRightControlsWrapper|-DivMiniPlayerContainer/;
+				const matchedDiv = Array.from(divs).find(div => {
+					return div.classList.value.split(' ').some(className => {
+						return regex.test(className);
 					});
-				}else{
-					$("#"+eleId).remove();
+				});
+				if(matchedDiv){
+					let cloneNode =  null;
+					let isDetail = matchedDiv.children.length!=1;
+					if(isDetail){
+						cloneNode = matchedDiv.children[0].cloneNode(true);
+					}else{
+						cloneNode = matchedDiv.cloneNode(true);
+					}
+					cloneNode.id = "tiktok-download-990i";
+					cloneNode.querySelector("div").innerHTML=`<svg t="1724300009050" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="5307" width="35" height="35"><path d="M298.666667 554.666667v85.333333H256v128h512v-128h-42.666667v-85.333333h128v213.333333a85.333333 85.333333 0 0 1-78.933333 85.077333L768 853.333333H256a85.333333 85.333333 0 0 1-85.12-78.933333L170.666667 768v-213.333333h128z" fill="#ffffff" p-id="5308"></path><path d="M512 627.498667l219.477333-219.477334h-120.704L512 506.88 413.141333 408.021333H292.522667L512 627.498667z" fill="#ffffff" p-id="5309"></path><path d="M554.666667 528V167.978667h-85.333334v360.021333h85.333334z" fill="#ffffff" p-id="5310"></path></svg>`;
+					if(isDetail){
+						matchedDiv.insertBefore(cloneNode, matchedDiv.children[0]);
+					}else{
+						cloneNode.style.right=(166)+"px";
+						matchedDiv.parentNode.insertBefore(cloneNode, matchedDiv);
+					}
+					cloneNode.title = "点击下载视频（高清无水印）";
+					cloneNode.addEventListener("click",()=>{
+						this.download(window.location.href,cloneNode);
+					});
 				}
 			}
-			
-			//facebook解析
-			if(host.indexOf("facebook.com")!=-1){
-				if(href.indexOf("facebook.com/watch")!=-1 || href.indexOf("/videos/")!=-1){
-					if($("#"+eleId).length != 0){
-						return;
-					}
-					var iconVideo = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADOUlEQVRoQ+2Zz4uNURjHP9+F8g8gykKJNJMUUmzMDKZmYVYsLBRhOaEmFhRRLCZDY4PBrJRREkUMmY3URCk/s6GMhR9ZWNk9OvXO7b133ve+57w/7szUnLqbe59fn/Oc85znnCvm+NAcj595gHgGzWwDsBZYDawEFgI/gT/AR0nDZWe8lAyYWTewF9iTEeA4MCTpblkghQHM7BxwPDCgAUn9gTqJ4oUAzOwKcChnICOS9uXUranlBjCza8CBggFclHSkiI1cAGbWBTwt4jim2y3pSV5bwQBmtgq4BazP67RB7w3gsvAX+CbpV4hdL4CoPG4H3KcjxEEOWVdyHwPjkq5m6WcCmNmFaIaybFXx+2vgsqSRNOOpAGa2GHhY4lIpAnha0qkkA4kAZuZO0k9FPFag2yHJHYR1Iw3gO7CsgiCKmPwMdEmajBuZBmBmbuMcLOKpQt1BSUdTAczMVZmQmjwtpTmC3xqo0ybpw5ROXQbMrA+45GtQUmYVy7JlZpYl0/B73YZuBAjqbWYI4KWkzWkZeBVSNuMAZua1FBorSY4MTEpangYQlM4EgOdZy6ExazkAiNtoXELvgLasIGr0sT0QZaAVAO8ltadlYBTYNcsB7kjanQZwHjg2ywGaViHXIruN7DVmYA+4lnudpC+JGXBfhlwTZwDAPQi4s6o2kloJ9yzyyKcXajGA64F6JL1tChBlwdX0oIrSgirUK+l+49pudh/IhGhhBvolDSRtzKa9jJktBdxrWk+icvXnwO3oIexFWlXJbMbMbAGwJQWg1o0WWEKpLUjSBcZ7CXnV0ZhQXoBQP/MAUzNgZu5Z8EbRGQT2S7qZ107mHmhmuIQnl2lXxFCQQgDRmTEGbAt1DIxJ2pFDr06lDIBFgDsdlwQE8wNol/Q7QCdRtDBAlIVO4FlAMJ2SMk96H3ulAEQQh4FBD6d9koY85LxESgOIIK67qtLE87CkUt+cSgWIICaAjQkQE5I2eU1rgFAVACsA9/Dk/qGcGv+ANZK+BsTmJVo6QJSFXuBeLIKdkh54RRQoVAlABHECOAOclHQ2MC5v8coAIojR+AuCd1QBgpUCBMSRW3QeIPfUlaT4H0/7RUAi2a/NAAAAAElFTkSuQmCC";
-					var html='<div id="'+eleId+'" style="width:25px;padding:10px 0px;text-align:center;background-color:#E5212E;position:fixed;top:250px;left:0px;color:#FFF;font-size:0px;z-index:9999999999999;cursor:pointer;margin:0px auto;text-align:center;">'+
-						'<img src="'+iconVideo+'" style="width:20px;">'+
-						'</div>';
-					$("body").append(html);
-					$("body").on("click", "#"+eleId, function(){
-						var location_url = window.location.href;
-						commonFunctionObject.GMsetValue("facebook_downloader_obj", {"facebook_url":location_url});
-						commonFunctionObject.GMopenInTab("https://yt1s.com/facebook-downloader");
-					});
-				}else{
-					$("#"+eleId).remove();
-				}
-			}
-		}, 1000);
-		
-		if(window.location.href.indexOf("yt1s.com/facebook-downloader")!=-1){ //facebook下载
-			var facebookObject = commonFunctionObject.GMgetValue("facebook_downloader_obj");
-			if(!!facebookObject){
-				$("#s_input").val(facebookObject.facebook_url);
-			}
-		}
+		}, 2000);
 	}
 }
+
 try{
 	if(!functionController || functionController.abroadVideoHelper){
-		(new AbroadVideoHelper()).start();
+		(new Tiktok()).start();
 	}
 }catch(e){
 	console.log("国外视频解析：error："+e);
